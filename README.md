@@ -1,1 +1,1 @@
-# AI-Powered-Study-Companion-
+# AI-Powered-Study-Companion
