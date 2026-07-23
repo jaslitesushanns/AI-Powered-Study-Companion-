@@ -1,1 +1,11 @@
-
+streamlit>=1.45.0
+google-generativeai
+pandas
+plotly
+streamlit-option-menu
+streamlit-extras
+streamlit-lottie
+streamlit-card
+streamlit-shadcn-ui
+reportlab
+sqlite-utils
